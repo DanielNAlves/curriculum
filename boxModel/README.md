@@ -10,6 +10,5 @@ Projeto realizado para fins de estudo, sobre informações pessoas e qualificaç
 
 ## Layout
 <div align="center">
-  <p>Modo para o Adm</p>
   <img src="https://github.com/DanielNAlves/image_project/blob/main/curriculo.gif"/>
 </div>
