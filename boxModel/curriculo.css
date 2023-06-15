@@ -10,10 +10,13 @@ h1 {
     text-align: center;
     background-color: #898bd9;
     color: #15056e;
+    margin-bottom: 0;
 }
 
 .descricao {
-    margin: 10px 120px 30px 120px;    
+    padding-left: 210px;
+    text-align: center;
+    
 }
 
 p {
@@ -29,7 +32,7 @@ p {
 .titulo_secundario {
     font-weight: 400;
     color: #0f044e;
-    padding: 15px;
+    padding: 10px;
     background-color: #808080;
     border-bottom: 5px solid #15056e;
     font-weight: bolder;
@@ -60,7 +63,33 @@ strong {
 
 img {
     width: 200px;
-    height: 212px;
+    height: 192px;
     float: right;
     margin-top: 50px;
+}
+
+
+.menu {
+    text-align: center;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.menu li {
+    list-style: none;
+    display: inline-block;
+    padding: 0;
+}
+
+.menu a {
+    background-color: #808080;
+    padding: 12px;
+    display: inline-block;
+   
+}
+
+.menu a:hover {
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
 }
